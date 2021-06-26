@@ -1,0 +1,12 @@
+Enter number of Employees 9
+Here the goodies that are selected for distribution are :
+MI Band:999
+Sandwich Toaster:2195
+Cult Pass:2799
+Noise Earbuds:3999
+Realme:7000
+One Plus Earbuds:7980
+Alexa:9999
+Apple Smart Watch:22349
+Digital Camera:90005
+And the diffrent between the chosen goodie with highest price and the lowest price is 89006

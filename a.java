@@ -4,7 +4,7 @@ public class a {
 	public static void main(String[] args) throws Exception {
 		Scanner sc=new Scanner(System.in);
 		String path1="sample_input.txt";
-		String path2="output_file.txt";
+		String path2="output_file3.txt";
 
 		FileReader file=new FileReader(path1);
 		BufferedReader bf=new BufferedReader(file);
@@ -38,7 +38,7 @@ public class a {
 			bw.newLine();
 		}
 		int d=price[val+n-1]-price[val];
-		bw.write("And the diffrent between the chosen goodie with highest price and the lowest price is "+Integer.toString(d) +"\n");
+		bw.write("And the diffrent between the chosen goodie with highest price and the lowest price is "+Integer.toString(d)+"\n");
 		bw.close();    
 	}
 	private static int find(int[] price,int n) {
